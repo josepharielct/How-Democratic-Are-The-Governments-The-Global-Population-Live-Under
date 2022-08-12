@@ -16,7 +16,7 @@ The conditions used to classify each country into those four types of democracie
 However, there are several problems that could be caused by visualizing this concept the way OWiD does it. As they decided to box each country into these discrete categories, some subtleties regarding how the reclassification occurs are lost. For example, in situations where there are sharp, sudden changes in the graph, we have no way of knowing whether it is caused by genuine sudden changes like independence or coups or whether it is caused by a gradual change which eventually resulted in the reclassification (an example of this is the Modi government in India in the 2010s).
 As such, I decided to revisualize my idea as follows.
 
-[FDS revisualization.gif](How%20Democratic%20Are%20The%20Governments%20The%20Global%20Popu%20d6a9c4d021a54cea8d8554475abdee8c/FDS_revisualization.gif)
+[FDS revisualization.mp4](How%20Democratic%20Are%20The%20Governments%20The%20Global%20Popu%20d6a9c4d021a54cea8d8554475abdee8c/FDS_revisualization.mp4)
 
 By visualizing it continuously, instead of using discrete categories, I was able to correct the issues I had with the original visualization whilst maintaining the borders in which RoW separates autocracies and democracies. I have also decided to add another dimension, GDP per capita, to pose the question of whether democracies are available to all countries or whether it is only available to the rich ones whilst leaving the poor ones with none.
 
